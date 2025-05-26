@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      Kurd Home, First partnership Sloth Music, this server have daily giveaways and big staff community every day created big giveaway and tournament games.
                                     </p>
                                 </div>     
                             </div>
@@ -40,7 +40,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                   DISCOUNT CODE: CODESHARE Experience uninterrupted internet speed up to 10Gb and cheap intel i9, amd ryzen series vds with Nodesty. Shop with Code Share assurance.
+                                   Register Staff And Admin : Now open register you can apply now!
                                     </p>
                                 </div>     
                             </div>
