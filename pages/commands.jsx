@@ -29,7 +29,7 @@ const commands = [
   "/stop",
   "/time",
   "/volume",
-  "have 85 cmds"
+  "have 85 cmds",
 ];
 
   return (
