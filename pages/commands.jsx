@@ -28,7 +28,7 @@ const commands = [
   "/skip",
   "/stop",
   "/time",
-  "/volume"
+  "/volume",
   "have 85 cmds"
 ];
 
